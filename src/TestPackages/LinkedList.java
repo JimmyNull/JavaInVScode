@@ -24,6 +24,7 @@ public class LinkedList {
 
   /**
    * add new node to list as last element
+   * 
    * @param data the new node data
    */
   public void addLast(Object data) {
